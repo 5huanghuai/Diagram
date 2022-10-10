@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T13:14:38.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_hIAbv7zI8S3WcU0mq7_" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T13:16:48.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wZo2pTf2LiuREassrJwG" version="20.4.0" type="github">
   <diagram id="z9i40ypWuwNYgKPRJ2TQ" name="第 1 页">
-    <mxGraphModel dx="918" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1295" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tmp6za4_GGbVTdfqtomE-9" value="正类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tmp6za4_GGbVTdfqtomE-10" value="负类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tmp6za4_GGbVTdfqtomE-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Tmp6za4_GGbVTdfqtomE-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tmp6za4_GGbVTdfqtomE-20" value="正类+负类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tmp6za4_GGbVTdfqtomE-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=33;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Tmp6za4_GGbVTdfqtomE-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="Tmp6za4_GGbVTdfqtomE-23" value="$$1-\lambda : \lambda$$" style="text;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;flipH=0;flipV=0;container=0;html=1;labelBackgroundColor=none;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="910" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tmp6za4_GGbVTdfqtomE-24" value="图像变换" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="580" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tmp6za4_GGbVTdfqtomE-25" value="图像变换" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tmp6za4_GGbVTdfqtomE-26" value="图像变换" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="610" y="580" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tmp6za4_GGbVTdfqtomE-27" value="Mix up" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
