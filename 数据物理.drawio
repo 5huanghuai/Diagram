@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T06:48:55.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HyUEh7VlxWcORlGmuvxQ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T06:51:34.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="s-3u6QBQ-xFDl0xLzv_5" version="20.4.1" type="github">
   <diagram id="cAbJ7RE4t0ztQyKBYbv4" name="第 1 页">
-    <mxGraphModel dx="868" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="Zz7yHoWNCV6439r8U1kF-9" value="Lots of Physics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="820" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zz7yHoWNCV6439r8U1kF-20" value="传统机器学习" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zz7yHoWNCV6439r8U1kF-21" value="传统物理求解器" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="690" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zz7yHoWNCV6439r8U1kF-22" value="NN-based Oprator" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="508.75" y="690" width="122.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
