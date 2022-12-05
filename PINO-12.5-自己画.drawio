@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T13:46:13.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="CSpPu-f4kj7f-q3EOhVu" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T13:49:16.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="4xXf9DgdZ9tnewswKsb_" type="github">
   <diagram id="NjW-yhsZ5i_trCQD1ym4" name="第 1 页">
-    <mxGraphModel dx="1483" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="494" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -832,7 +832,7 @@
         <mxCell id="FUlJ05SnASZW4XO25VSm-261" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1501.25" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="FUlJ05SnASZW4XO25VSm-262" value="$$ \mathcal{u}_{(x,y,z,t)} \in \mathcal{U}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FUlJ05SnASZW4XO25VSm-262" value="$$ \mathcal{u}_{(x,y,z,t)}^{\dagger} \in \mathcal{U}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="1642.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-263" value="label" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -862,8 +862,11 @@
         <mxCell id="FUlJ05SnASZW4XO25VSm-268" value="Initial-Condition" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1847.5" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FUlJ05SnASZW4XO25VSm-269" value="$$P|_{(t=0)} =a$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FUlJ05SnASZW4XO25VSm-269" value="$$P|_{(t=0)} =\mathcal{a}_{(x,y,z,t)}^{&#39;}&lt;br&gt;$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1435" y="1866.25" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FUlJ05SnASZW4XO25VSm-272" value="$$ \mathcal{F}_{\theta}^{&#39;}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1412.5" y="1560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
