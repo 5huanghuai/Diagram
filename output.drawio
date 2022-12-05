@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T13:53:58.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="FI7yrNiveyzn8Z7ET2jl" type="github"><diagram id="_AIhnrplcyuBUJua0POX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-05T13:54:46.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="JBABRUe0SIMS2tDq-yhJ" type="github">
+  <diagram id="vNaFavaUtkI6E_ZRZSPJ" name="第 1 页">
+    <mxGraphModel dx="593" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-9" value="$$\mathcal{A} \ni \mathcal{a}_{(x,y,z,t)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="164.79999999999995" as="sourcePoint" />
+            <mxPoint x="250" y="164.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-11" value="$$\mathcal{E}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-12" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="240" y="145" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-13" value="&amp;nbsp;$$NO_{1}/\mathcal{G}_{\theta}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="164.79999999999995" as="sourcePoint" />
+            <mxPoint x="370" y="164.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-15" value="$$\mathcal{D}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5DeH8LEnFmFn5Sq5zkg7-16" value="$$ \mathcal{u}_{(x,y,z,t)} \in \mathcal{U}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
