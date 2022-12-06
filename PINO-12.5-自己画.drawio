@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T02:50:39.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ty3BbaV7FTREH6ABZ77J" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T02:54:47.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bu-hq-tLxXj68T61qnBp" version="20.6.0" type="github">
   <diagram id="NjW-yhsZ5i_trCQD1ym4" name="第 1 页">
-    <mxGraphModel dx="1153" dy="1777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1887" dy="2164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,10 +563,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-580" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1607" y="1505" width="45" height="45" as="geometry" />
+          <mxGeometry x="1587.5" y="1497.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-581" value="label" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1599.5" y="1483.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="1580" y="1476.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-582" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1583.13" y="1690" width="165" height="48.75" as="geometry" />
@@ -644,7 +644,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-598" value="$$&amp;nbsp; \mathcal{F}_{\theta_{0}}(u^{\dagger}(x,y,z,t))&lt;br&gt;$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1680.5" y="1516.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="1583.13" y="1538.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2TxUlRtvzBllhrkVPpMp-1" value="$$\mathcal{A} \ni \mathcal{a}_{(x,y,z,t)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="327.5" width="60" height="30" as="geometry" />
@@ -918,6 +918,15 @@
         </mxCell>
         <mxCell id="2TxUlRtvzBllhrkVPpMp-68" value="$$ R(\hat&lt;br&gt;{a})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1874" y="856.25" width="80" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2TxUlRtvzBllhrkVPpMp-69" value="$$ \mathcal{L}_{PDE}(&amp;nbsp; &amp;nbsp;\mathcal{F}_{\theta_{i}}(u^{\dagger})&amp;nbsp; ,u^{\dagger}) $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1986" y="1642.5" width="80" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2TxUlRtvzBllhrkVPpMp-70" value="$$ \mathcal{L}_{oprator}(&amp;nbsp; &amp;nbsp;\mathcal{F}_{\theta_{i}}(u^{\dagger})&amp;nbsp; ,\mathcal{F}_{\theta_{0}}(u^{\dagger})) $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="1518.75" width="80" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2TxUlRtvzBllhrkVPpMp-71" value="$$ R(\mathcal{F}_{\theta_{i}}(u^{\dagger}))$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1944" y="1467.5" width="80" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
