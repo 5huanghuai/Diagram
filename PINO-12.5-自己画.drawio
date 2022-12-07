@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T06:23:42.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="US5gTXPWzY-M2qX6U8vH" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T06:25:11.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tLSvxzp-3KdEAkmq6wDC" version="20.6.0" type="github">
   <diagram id="NjW-yhsZ5i_trCQD1ym4" name="第 1 页">
-    <mxGraphModel dx="1597" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
             <mxPoint x="240" y="154.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUlJ05SnASZW4XO25VSm-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="FUlJ05SnASZW4XO25VSm-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#B266FF;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="230" y="135" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-8" value="&amp;nbsp;$$\mathcal{G}_{\theta}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
             <mxPoint x="240" y="334.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FUlJ05SnASZW4XO25VSm-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="FUlJ05SnASZW4XO25VSm-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#BAC8D3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="230" y="315" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FUlJ05SnASZW4XO25VSm-16" value="&amp;nbsp;$$\mathcal{F}_{\theta}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1018,7 +1018,7 @@
         <mxCell id="87Ph22owlFa2kmHyDB1Y-65" value="$$ \mathcal{L}_{oprator} $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3450" y="335" width="80" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="87Ph22owlFa2kmHyDB1Y-67" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="87Ph22owlFa2kmHyDB1Y-67" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#B266FF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2648" y="388.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="87Ph22owlFa2kmHyDB1Y-68" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;$$\mathcal{G}_{\theta}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1129,7 +1129,7 @@
             <mxPoint x="2845" y="937.1000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="87Ph22owlFa2kmHyDB1Y-151" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="87Ph22owlFa2kmHyDB1Y-151" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#B266FF;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2695" y="915" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="87Ph22owlFa2kmHyDB1Y-152" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;$$\mathcal{G}_{\theta}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
