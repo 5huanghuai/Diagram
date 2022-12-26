@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T09:55:03.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="rEhtHTRBP44mP3Ei4W-e" type="github"><diagram id="F4Qti7SFBPfgE4ZTRDKr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-26T10:05:04.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="wanhkPDcqSJHeQ25mNez" type="github">
+  <diagram id="8xKTFgsz9ASv7NmFFCGb" name="第 1 页">
+    <mxGraphModel dx="875" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-1" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="670" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-1">
+          <mxGeometry width="670" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-3" value="时间" style="connectable=0;recursiveResize=0;strokeColor=#001DBC;fillColor=#0050ef;align=center;fontStyle=1;fontColor=#ffffff;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-2">
+          <mxGeometry width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-4" value="目标" style="connectable=0;recursiveResize=0;strokeColor=#001DBC;fillColor=#0050ef;align=center;fontStyle=1;fontColor=#ffffff;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-2">
+          <mxGeometry x="335" width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;align=left;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-1">
+          <mxGeometry y="47" width="670" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-7" value="2022.09 - 2022.12" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-6">
+          <mxGeometry width="335" height="43" as="geometry">
+            <mxRectangle width="335" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-8" value="查询资料，阅读文献，分析各种使用深度学习方法进行求解PDE的特点" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-6">
+          <mxGeometry x="335" width="335" height="43" as="geometry">
+            <mxRectangle width="335" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-1">
+          <mxGeometry y="90" width="670" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-11" value="2023.01 - 2023.05" style="connectable=0;recursiveResize=0;strokeColor=#006EAF;fillColor=#1ba1e2;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-10">
+          <mxGeometry width="335" height="43" as="geometry">
+            <mxRectangle width="335" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-12" value="将PINN和PINO方法应用到波动方程，进行系统性的分析结果" style="connectable=0;recursiveResize=0;strokeColor=#006EAF;fillColor=#1ba1e2;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-10">
+          <mxGeometry x="335" width="335" height="43" as="geometry">
+            <mxRectangle width="335" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-1">
+          <mxGeometry y="133" width="670" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-15" value="2023.06 - 2023.10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-14">
+          <mxGeometry width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-16" value="尝试更加优秀的模型，尝试进行参数反演任务" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-14">
+          <mxGeometry x="335" width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-1">
+          <mxGeometry y="180" width="670" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-36" value="2023.11 - 2024.01" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-35">
+          <mxGeometry width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-37" value="毕业论文攥写初稿与修改" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-35">
+          <mxGeometry x="335" width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-38" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-1">
+          <mxGeometry y="227" width="670" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-39" value="2024.02 - 2024.05" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-38">
+          <mxGeometry width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-40" value="攥写毕业论文，准备答辩" style="connectable=0;recursiveResize=0;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="IhUSkI2p2Cw3HW6k8Wog-38">
+          <mxGeometry x="335" width="335" height="47" as="geometry">
+            <mxRectangle width="335" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
