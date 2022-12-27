@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T11:16:27.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="r0-wBi1W1wyzJ5uTw548" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T09:13:24.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aDZG1qykkIyXpwKZ-U55" version="20.7.4" type="github">
   <diagram id="8xKTFgsz9ASv7NmFFCGb" name="第 1 页">
-    <mxGraphModel dx="791" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             <mxRectangle width="335" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-12" value="将PINN和PINO方法应用到波动方程，进行系统性的分析结果" style="connectable=0;recursiveResize=0;strokeColor=#006EAF;fillColor=#1ba1e2;whiteSpace=wrap;html=1;fontColor=#000000;align=left;" parent="IhUSkI2p2Cw3HW6k8Wog-10" vertex="1">
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-12" value="将PINN和PINO方法应用到软组织、经颅场景下的声波方程，进行系统性的分析结果" style="connectable=0;recursiveResize=0;strokeColor=#006EAF;fillColor=#1ba1e2;whiteSpace=wrap;html=1;fontColor=#000000;align=left;" parent="IhUSkI2p2Cw3HW6k8Wog-10" vertex="1">
           <mxGeometry x="335" width="335" height="43" as="geometry">
             <mxRectangle width="335" height="43" as="alternateBounds" />
           </mxGeometry>
@@ -54,7 +54,7 @@
             <mxRectangle width="335" height="47" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-16" value="尝试更加优秀的模型，尝试进行参数反演任务" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;" parent="IhUSkI2p2Cw3HW6k8Wog-14" vertex="1">
+        <mxCell id="IhUSkI2p2Cw3HW6k8Wog-16" value="将PINN和PINO方法应用到经颅场景下的弹性波方程，并且尝试更加优秀的模型，尝试进行参数反演任务" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;" parent="IhUSkI2p2Cw3HW6k8Wog-14" vertex="1">
           <mxGeometry x="335" width="335" height="47" as="geometry">
             <mxRectangle width="335" height="47" as="alternateBounds" />
           </mxGeometry>
