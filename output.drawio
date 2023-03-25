@@ -1,47 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T07:32:27.343Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zFCCnnO_MKBA96Xu8bFc" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T07:36:20.595Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Zbf54BdKszKKWg06kNsL" version="21.1.1" type="github">
   <diagram id="vNaFavaUtkI6E_ZRZSPJ" name="第 1 页">
-    <mxGraphModel dx="976" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1627" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuron_Hand-tuned.svg/2560px-Neuron_Hand-tuned.svg.png;fillColor=default;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="208" y="220" width="520" height="280" as="geometry" />
+          <mxGeometry x="208" y="220" width="802" height="431.85" as="geometry" />
         </mxCell>
-        <mxCell id="U37dDdCDtGxf1Vqsfb_v-2" value="树突" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="278" y="213" width="60" height="30" as="geometry" />
+        <mxCell id="U37dDdCDtGxf1Vqsfb_v-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;树突&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="216" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U37dDdCDtGxf1Vqsfb_v-3" value="神经细胞细胞核" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="218" y="484" width="58" height="30" as="geometry" />
+        <mxCell id="U37dDdCDtGxf1Vqsfb_v-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;神经细胞细胞核&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="224" y="647" width="104" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U37dDdCDtGxf1Vqsfb_v-4" value="神经末梢" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="639" y="232" width="60" height="30" as="geometry" />
+        <mxCell id="U37dDdCDtGxf1Vqsfb_v-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;神经末梢&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="863" y="246" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-45;strokeWidth=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="349" y="338.66" width="58.92" height="23" as="geometry" />
+          <mxGeometry x="425.26" y="402.28" width="88" height="23" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="353" y="361.66" width="14" height="14" as="geometry" />
+          <mxGeometry x="430" y="443" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-7" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=85;strokeWidth=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="454.21" y="459.69" width="120" height="47.54" as="geometry" />
+          <mxGeometry x="610" y="570" width="120" height="47.54" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="500" y="423" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-9" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=45;strokeWidth=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="535" y="404" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-10" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-105;strokeColor=#FFFFFF;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="473" y="312" width="118" height="30" as="geometry" />
+          <mxGeometry x="664" y="396" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U37dDdCDtGxf1Vqsfb_v-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=29;endSize=40.64;fillColor=#647687;strokeColor=#314354;endWidth=29;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="248.5" y="188" as="sourcePoint" />
-            <mxPoint x="687.5" y="188" as="targetPoint" />
+            <mxPoint x="912" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U37dDdCDtGxf1Vqsfb_v-12" value="信息传递方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="140" width="225" height="30" as="geometry" />
+        <mxCell id="U37dDdCDtGxf1Vqsfb_v-12" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;信息传递方向&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="132" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
