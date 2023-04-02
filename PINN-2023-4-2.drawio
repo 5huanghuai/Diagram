@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T04:42:09.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EjoVVFI-Xy6iTSxgZz0q" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T04:43:20.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KEnwAwPvRXn1CYbIK2EK" version="21.1.2" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="2930" dy="2836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3516" dy="3169" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,25 +47,28 @@
           <mxGeometry x="810" y="230" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="-202" width="1373" height="887" as="geometry" />
+          <mxGeometry x="1038" y="-200" width="1373" height="887" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="-13" width="1128.5" height="190" as="geometry" />
+          <mxGeometry x="1160.25" y="-9" width="1128.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-5" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$PDE: \mathcal{L}[(u(x,y))]=f(x,y),\quad (x,y) \in \Omega $$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1260.25" y="7" width="870" height="150" as="geometry" />
+          <mxGeometry x="1309.5" y="11" width="870" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="209" width="1128.5" height="190" as="geometry" />
+          <mxGeometry x="1160.25" y="213" width="1128.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-9" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$BC: \mathcal{B}[(u(x,y))]=f(x,y),\quad (x,y) \in \partial \Omega $$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1260.25" y="229" width="870" height="150" as="geometry" />
+          <mxGeometry x="1309.5" y="233" width="870" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="437" width="1128.5" height="190" as="geometry" />
+          <mxGeometry x="1160.25" y="441" width="1128.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Obaimz5UQDEIx0OzWvkx-10" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$IC: \mathcal{I}[(u(x,y))]=f(x,y),\quad (x,y) \in \overline{\Omega} $$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140.25" y="457" width="1030" height="150" as="geometry" />
+          <mxGeometry x="1189.5" y="461" width="1030" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Obaimz5UQDEIx0OzWvkx-15" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Physics-Informed&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1289.5" y="-174" width="870" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
