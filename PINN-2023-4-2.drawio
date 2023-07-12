@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T05:59:43.600Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3Hz3mxWJyUdOMgucecAP" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T07:28:48.059Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wlPERzWne1YJAYFvcDAW" version="21.6.2" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="15920" dy="7274" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="18960" dy="5547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2685,19 +2685,10 @@
           <mxGeometry x="-8287" y="2837.71" width="62" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-6485.5" y="2418.71" width="1327" height="734" as="geometry" />
+          <mxGeometry x="-6485.5" y="2418.71" width="1463.5" height="1760.29" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-6412.5" y="2589.71" width="1239" height="211" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-7" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$PDE:\nabla^{2} u_{s} + k^{2} u_{s}&amp;nbsp; &amp;nbsp;=&amp;nbsp; (k_{0}^{2}- k^{2} ) u_{0},\quad (x,y) \in&amp;nbsp; \Omega$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5962" y="1749" width="870" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-6419.5" y="2873.71" width="1228" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-9" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$BC: {u_{s}}=0,\quad (x,y) \in \partial \Omega $$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6226.5" y="2893.71" width="870" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-10" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Physics-Informed&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-6234" y="2444.71" width="870" height="150" as="geometry" />
@@ -2708,10 +2699,10 @@
             <mxPoint x="-6766.75" y="2507.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-12" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;targetPerimeterSpacing=-1;endSize=50;" parent="1" source="YyEoaxEL-YbPmd99M6Ss-52" target="YyEoaxEL-YbPmd99M6Ss-8" edge="1">
+        <mxCell id="YyEoaxEL-YbPmd99M6Ss-12" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;targetPerimeterSpacing=-1;endSize=50;" parent="1" source="YyEoaxEL-YbPmd99M6Ss-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-6832.250000000002" y="2918.67" as="sourcePoint" />
-            <mxPoint x="-6726.75" y="2736.67" as="targetPoint" />
+            <mxPoint x="-6419.5" y="2968.709999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" parent="1" vertex="1">
@@ -2723,9 +2714,9 @@
             <mxPoint x="-4634" y="3628.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=50;" parent="1" source="YyEoaxEL-YbPmd99M6Ss-8" target="YyEoaxEL-YbPmd99M6Ss-13" edge="1">
+        <mxCell id="YyEoaxEL-YbPmd99M6Ss-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=50;" parent="1" target="YyEoaxEL-YbPmd99M6Ss-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-5091" y="2622.46" as="sourcePoint" />
+            <mxPoint x="-5191.5" y="2968.709999999999" as="sourcePoint" />
             <mxPoint x="-4961" y="3062.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2763,52 +2754,10 @@
           <mxGeometry x="-4628" y="3407.71" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-24" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$No$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5182" y="3257.46" width="145" height="60" as="geometry" />
+          <mxGeometry x="-4880" y="3222.21" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-25" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;$$Update \quad parameters \quad of \quad NN$$&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-6128" y="3223.71" width="631" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8BBF87;strokeColor=#36393d;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-6508" y="3451.46" width="1468" height="709" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-27" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Notation：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6467" y="3483.46" width="374" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-28" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$\Omega$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6495" y="3545.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-29" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: Interest domain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6338" y="3586.46" width="440" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-30" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$\partial \Omega$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6491" y="3651.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-31" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: boundary of domain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6314.5" y="3689.46" width="479" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-32" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: differential operator&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6308" y="3805.46" width="465" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-33" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$\mathcal{L}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-6491" y="3774.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-34" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$\mathcal{B}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5805" y="3874.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-35" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: boundary function&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5625" y="3896.46" width="465" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-36" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$(x,y)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5787" y="3554.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-37" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: coordinate of domain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5607" y="3595.46" width="505.75" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-38" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$u(x,y)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5787" y="3663.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-39" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: prediction solution&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5607" y="3704.46" width="445" height="68" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=50;" parent="1" source="YyEoaxEL-YbPmd99M6Ss-62" target="YyEoaxEL-YbPmd99M6Ss-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2883,10 +2832,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-7440.25" y="2755.17" width="194.5" height="194.5" as="geometry" />
+          <mxGeometry x="-7514" y="2328.71" width="234.5" height="234.5" as="geometry" />
         </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-53" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;$$u(x,y)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-7393" y="2779.42" width="100" height="150" as="geometry" />
+        <mxCell id="YyEoaxEL-YbPmd99M6Ss-53" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;$$\sigma_{xx}(x,y)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-7444" y="2370.96" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-8346.75" y="2368.71" width="194.5" height="194.5" as="geometry" />
@@ -2924,12 +2873,6 @@
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-65" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;$$y$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-9670.75" y="2931.21" width="100" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-66" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$f(x,y)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5787" y="3765.46" width="172" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-67" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;: source function&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5671" y="3806.46" width="505.75" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-68" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.795;entryDx=0;entryDy=0;entryPerimeter=0;endSize=50;" parent="1" source="YyEoaxEL-YbPmd99M6Ss-17" target="YyEoaxEL-YbPmd99M6Ss-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-5046.249999999997" y="3325.71" as="sourcePoint" />
@@ -2946,22 +2889,13 @@
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-71" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;前向计算&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-8604" y="2287.71" width="298" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-72" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;神经网络预测的物理量（声压）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-7537" y="3055.71" width="511" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-73" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;将神经网络预测的物理量带入到物理方程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-7171" y="2620.21" width="680" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-74" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;输出神经网络的预测值&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-7823" y="2586.71" width="455" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=50;" parent="1" edge="1">
+        <mxCell id="YyEoaxEL-YbPmd99M6Ss-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;endSize=50;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-6173" y="2654.71" as="sourcePoint" />
-            <mxPoint x="-6523" y="2220.71" as="targetPoint" />
+            <mxPoint x="-5822.45" y="2606.29" as="sourcePoint" />
+            <mxPoint x="-6508" y="2242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-76" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;$${\nabla}^{2}=\frac{{\partial }^{2}}{{\partial x}^{2}}+\frac{{\partial}^{2}}{{\partial y}^{2}}$$&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="YyEoaxEL-YbPmd99M6Ss-76" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;$$\frac{{\partial }}{{\partial x}}\quad \frac{{\partial}}{{\partial y}} \quad \frac{\partial }{\partial z}$$&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-7253" y="2170.71" width="680" height="68" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-77" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;endSize=50;" parent="1" edge="1">
@@ -2974,7 +2908,7 @@
           <mxGeometry x="-7794" y="2009.71" width="455" height="68" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-79" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;计算得到神经网络预测物理量不符合物理方程的量化指标&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5115" y="2526.71" width="953" height="68" as="geometry" />
+          <mxGeometry x="-5075" y="2525" width="953" height="68" as="geometry" />
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-80" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;判断量化指标是否符合要求&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-4285" y="3270.71" width="473" height="68" as="geometry" />
@@ -3014,9 +2948,6 @@
         </mxCell>
         <mxCell id="YyEoaxEL-YbPmd99M6Ss-92" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;$$\vdots$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="1" vertex="1">
           <mxGeometry x="-8524" y="3196.21" width="62" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="YyEoaxEL-YbPmd99M6Ss-93" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$PDE:-{\omega}^{2} \sigma_{xx}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-5853.12" y="2026.56" width="870" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-8935" y="5952.25" width="1181" height="1425.75" as="geometry" />
@@ -3399,6 +3330,78 @@
             <mxPoint x="-7007.5" y="6983" as="sourcePoint" />
             <mxPoint x="-6169.5" y="7044" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-102" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xx}=(\lambda +2 \mu)\frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14789" y="2583" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-103" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yy}=\lambda \frac{\partial V_{x}}{\partial x} + (\lambda +2 \mu)\frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14794" y="2771.2200000000003" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-104" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{zz}=\lambda \frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + (\lambda +2 \mu) \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14813" y="2928.33" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-105" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xy}= \mu (\frac{\partial V_{y}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial y} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14797" y="3096.33" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-106" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14789" y="3253.9300000000003" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-107" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{y}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14794" y="3377.1900000000005" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-108" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{x}=\frac{\sigma_{xx}}{\partial x} +&amp;nbsp; \frac{\sigma_{xy}}{\partial y} + \frac{\sigma_{xz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14800.5" y="3554.3" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-109" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{y}=\frac{\sigma_{xy}}{\partial x} +&amp;nbsp; \frac{\sigma_{yy}}{\partial y} + \frac{\sigma_{yz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14794" y="3683.330000000001" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-110" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{z}=\frac{\sigma_{xz}}{\partial x} +&amp;nbsp; \frac{\sigma_{yz}}{\partial y} + \frac{\sigma_{zz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-14794" y="3806.3" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-112" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-6119" y="4858.04" width="1239" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-113" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xx}=(\lambda +2 \mu)\frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11541" y="3712.71" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-114" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yy}=\lambda \frac{\partial V_{x}}{\partial x} + (\lambda +2 \mu)\frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11546" y="3900.9300000000003" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-115" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{zz}=\lambda \frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + (\lambda +2 \mu) \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11565" y="4058.04" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-116" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xy}= \mu (\frac{\partial V_{y}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial y} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11549" y="4226.04" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-117" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11541" y="4383.64" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-118" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{y}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11546" y="4506.900000000001" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-119" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{x}=\frac{\sigma_{xx}}{\partial x} +&amp;nbsp; \frac{\sigma_{xy}}{\partial y} + \frac{\sigma_{xz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11552.5" y="4684.01" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-120" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{y}=\frac{\sigma_{xy}}{\partial x} +&amp;nbsp; \frac{\sigma_{yy}}{\partial y} + \frac{\sigma_{yz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11546" y="4813.040000000001" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-121" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{z}=\frac{\sigma_{xz}}{\partial x} +&amp;nbsp; \frac{\sigma_{yz}}{\partial y} + \frac{\sigma_{zz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11546" y="4936.01" width="1288" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-127" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-7514" y="2632" width="234.5" height="234.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-128" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;$$\sigma_{yy}(x,y)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-7444" y="2674.25" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-129" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="-7516" y="2920" width="234.5" height="234.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-130" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;$$\sigma_{zz}(x,y)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-7446" y="2962.25" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wN0RPkZ9rqSfJIerihVD-131" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xx}=(\lambda +2 \mu)\frac{{\partial}^{2} u_{x}}{{\partial x}^{2}} +\mu \frac{{\partial }^{2} u_{x}}{{\partial y}^{2}}+\mu \frac{{\partial }^{2} u_{x}}{{\partial z}^{2}}+ (\lambda +\mu ) \frac{{\partial}^{2} u_{y}}{\partial x \partial y} + (\lambda + \mu) \frac{{\partial}^{2} u_{z}}{\partial x \partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-15368" y="4250" width="1288" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
