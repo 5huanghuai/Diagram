@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T07:39:54.983Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EdO4sddLhHKIuVAZpW0g" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T07:40:36.420Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ExxwsnOyFBPDMe79T8rM" version="21.6.2" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="19188" dy="5666" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="25888" dy="8332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3331,62 +3331,35 @@
             <mxPoint x="-6169.5" y="7044" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-102" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xx}=(\lambda +2 \mu)\frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14789" y="2583" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-103" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yy}=\lambda \frac{\partial V_{x}}{\partial x} + (\lambda +2 \mu)\frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14794" y="2771.2200000000003" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-104" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{zz}=\lambda \frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + (\lambda +2 \mu) \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14813" y="2928.33" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-105" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xy}= \mu (\frac{\partial V_{y}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial y} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14797" y="3096.33" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-106" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14789" y="3253.9300000000003" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-107" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{y}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14794" y="3377.1900000000005" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-108" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{x}=\frac{\sigma_{xx}}{\partial x} +&amp;nbsp; \frac{\sigma_{xy}}{\partial y} + \frac{\sigma_{xz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14800.5" y="3554.3" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-109" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{y}=\frac{\sigma_{xy}}{\partial x} +&amp;nbsp; \frac{\sigma_{yy}}{\partial y} + \frac{\sigma_{yz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14794" y="3683.330000000001" width="1288" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="wN0RPkZ9rqSfJIerihVD-110" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{z}=\frac{\sigma_{xz}}{\partial x} +&amp;nbsp; \frac{\sigma_{yz}}{\partial y} + \frac{\sigma_{zz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14794" y="3806.3" width="1288" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-112" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-6119" y="4858.04" width="1239" height="211" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-113" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xx}=(\lambda +2 \mu)\frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11541" y="3712.71" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17325" y="3929" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-114" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yy}=\lambda \frac{\partial V_{x}}{\partial x} + (\lambda +2 \mu)\frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11546" y="3900.9300000000003" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17330" y="4117.22" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-115" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{zz}=\lambda \frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + (\lambda +2 \mu) \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11565" y="4058.04" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17349" y="4274.33" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-116" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xy}= \mu (\frac{\partial V_{y}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial y} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11549" y="4226.04" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17333" y="4442.33" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-117" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11541" y="4383.64" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17325" y="4599.93" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-118" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{y}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11546" y="4506.900000000001" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17330" y="4723.1900000000005" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-119" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{x}=\frac{\sigma_{xx}}{\partial x} +&amp;nbsp; \frac{\sigma_{xy}}{\partial y} + \frac{\sigma_{xz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11552.5" y="4684.01" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17336.5" y="4900.3" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-120" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{y}=\frac{\sigma_{xy}}{\partial x} +&amp;nbsp; \frac{\sigma_{yy}}{\partial y} + \frac{\sigma_{yz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11546" y="4813.040000000001" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17330" y="5029.330000000001" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-121" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{z}=\frac{\sigma_{xz}}{\partial x} +&amp;nbsp; \frac{\sigma_{yz}}{\partial y} + \frac{\sigma_{zz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11546" y="4936.01" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-17330" y="5152.3" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-127" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-7514" y="2632" width="234.5" height="234.5" as="geometry" />
