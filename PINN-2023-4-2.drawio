@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T07:40:36.420Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ExxwsnOyFBPDMe79T8rM" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T07:40:57.401Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9SOT-xQraDBfHcWU00dZ" version="21.6.2" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="25888" dy="8332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="35520" dy="14830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3335,31 +3335,31 @@
           <mxGeometry x="-6119" y="4858.04" width="1239" height="211" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-113" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xx}=(\lambda +2 \mu)\frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17325" y="3929" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14495" y="3609" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-114" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yy}=\lambda \frac{\partial V_{x}}{\partial x} + (\lambda +2 \mu)\frac{\partial V_{y}}{\partial y} + \lambda \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17330" y="4117.22" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14500" y="3797.2200000000003" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-115" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{zz}=\lambda \frac{\partial V_{x}}{\partial x} + \lambda \frac{\partial V_{y}}{\partial y} + (\lambda +2 \mu) \frac{\partial V_{z}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17349" y="4274.33" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14519" y="3954.33" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-116" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xy}= \mu (\frac{\partial V_{y}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial y} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17333" y="4442.33" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14503" y="4122.33" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-117" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{xz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{x}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17325" y="4599.93" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14495" y="4279.93" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-118" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \sigma_{yz}= \mu (\frac{\partial V_{z}}{\partial x} +&amp;nbsp; \frac{\partial V_{y}}{\partial z} )$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17330" y="4723.1900000000005" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14500" y="4403.1900000000005" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-119" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{x}=\frac{\sigma_{xx}}{\partial x} +&amp;nbsp; \frac{\sigma_{xy}}{\partial y} + \frac{\sigma_{xz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17336.5" y="4900.3" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14506.5" y="4580.3" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-120" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{y}=\frac{\sigma_{xy}}{\partial x} +&amp;nbsp; \frac{\sigma_{yy}}{\partial y} + \frac{\sigma_{yz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17330" y="5029.330000000001" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14500" y="4709.330000000001" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-121" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$i \omega \rho V_{z}=\frac{\sigma_{xz}}{\partial x} +&amp;nbsp; \frac{\sigma_{yz}}{\partial y} + \frac{\sigma_{zz}}{\partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-17330" y="5152.3" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-14500" y="4832.3" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-127" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-7514" y="2632" width="234.5" height="234.5" as="geometry" />
@@ -3374,13 +3374,13 @@
           <mxGeometry x="-7446" y="2962.25" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-131" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$\rho \frac{{\partial }^{2} u_{x}}{{\partial t}^{2}}=(\lambda +2 \mu)\frac{{\partial}^{2} u_{x}}{{\partial x}^{2}} +\mu \frac{{\partial }^{2} u_{x}}{{\partial y}^{2}}+\mu \frac{{\partial }^{2} u_{x}}{{\partial z}^{2}}+ (\lambda +\mu ) \frac{{\partial}^{2} u_{y}}{\partial x \partial y} + (\lambda + \mu) \frac{{\partial}^{2} u_{z}}{\partial x \partial z}$$&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-15368" y="4250" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-12538" y="3930" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-132" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$\rho \frac{{\partial }^{2} u_{y}}{{\partial t}^{2}}=(\lambda +\mu ) \frac{{\partial}^{2} u_{x}}{\partial x \partial y}&amp;nbsp; +&lt;br&gt;&amp;nbsp;\mu \frac{{\partial}^{2} u_{y}}{{\partial x}^{2}} +(\lambda +2 \mu)&amp;nbsp;\frac{{\partial }^{2} u_{y}}{{\partial y}^{2}}+\mu \frac{{\partial }^{2} u_{y}}{{\partial z}^{2}}+ (\lambda + \mu) \frac{{\partial}^{2} u_{z}}{\partial y \partial z}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-15378" y="4548" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-12548" y="4228" width="1288" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wN0RPkZ9rqSfJIerihVD-134" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;$$\rho \frac{{\partial }^{2} u_{z}}{{\partial t}^{2}}=(\lambda +\mu ) \frac{{\partial}^{2} u_{x}}{\partial x \partial z} + (\lambda + \mu) \frac{{\partial}^{2} u_{y}}{\partial y \partial z}+\mu \frac{{\partial}^{2} u_{z}}{{\partial x}^{2}}+\mu \frac{{\partial }^{2} u_{z}}{{\partial y}^{2}}&lt;br&gt;&amp;nbsp;+(\lambda +2 \mu)&amp;nbsp;\frac{{\partial }^{2} u_{z}}{{\partial z}^{2}}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-15350" y="4888.54" width="1288" height="150" as="geometry" />
+          <mxGeometry x="-12520" y="4568.54" width="1288" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
