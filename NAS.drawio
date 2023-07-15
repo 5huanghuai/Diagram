@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T10:09:27.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.2" etag="UR8RYtNm85N2TwdPhB57" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T10:26:46.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="edcuaxDd9U2Kq5Xh7rhN" version="21.6.2" type="github">
   <diagram name="第 1 页" id="ljcwPYvyxh-TD4wcijd0">
-    <mxGraphModel>
+    <mxGraphModel dx="2131" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-1" value="本机pc" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="200" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-10" width="570" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-3" value="&lt;b&gt;Unraid服务器&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740.5" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-5" value="br0" style="image;html=1;image=img/lib/clip_art/networking/Bridge_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-7" value="物理网卡&lt;br&gt;eth1&lt;br&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-9" value="物理网卡&lt;br&gt;eth0&lt;br&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-11" value="面板：192.168.17.199&lt;br&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="670.5" y="200" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-12" value="vibr0" style="image;html=1;image=img/lib/clip_art/networking/Bridge_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-14" value="openwrt:" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="670.5" y="110" width="83" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670.5" y="140" as="sourcePoint" />
+            <mxPoint x="547.5" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="40" as="sourcePoint" />
+            <mxPoint x="390" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="110" as="sourcePoint" />
+            <mxPoint x="710" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Wan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Lan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514.47" y="180" as="sourcePoint" />
+            <mxPoint x="514.47" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572.5" y="249.06" as="sourcePoint" />
+            <mxPoint x="662.5" y="250.93140213815792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-42" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;桥接&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="260" as="sourcePoint" />
+            <mxPoint x="470" y="261.8714021381579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-44" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;绑定&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-45" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;绑定&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-47" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;外部网络&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="240" as="sourcePoint" />
+            <mxPoint x="320" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-51" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;网线连接&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="38" as="sourcePoint" />
+            <mxPoint x="330" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3buUplPWRjZfx5ktA6WZ-53" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;网线连接&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-12" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
