@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T11:39:00.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QOU8LyQCz_PuD9M6JRHT" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T12:29:33.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7zj-Ipgrc3EYFHK7nfO7" version="21.7.2" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="28905" dy="7190" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="30940" dy="8253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3536,7 +3536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-17212.25" y="-178.75" width="194.5" height="194.5" as="geometry" />
+          <mxGeometry x="-16995.25" y="-191.25" width="194.5" height="194.5" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-107" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=50;" parent="1" source="sUApwfBICfltFjr-QBAB-99" target="sUApwfBICfltFjr-QBAB-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3551,37 +3551,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-109" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;$$Loss_{PI}$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-17165" y="-158.5" width="100" height="150" as="geometry" />
+          <mxGeometry x="-16948" y="-171" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-110" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-17286" y="287.5" width="342" height="193" as="geometry" />
+          <mxGeometry x="-17069" y="275" width="342" height="193" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-111" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;$$Loss_{PI}&amp;lt; \epsilon$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-17165" y="309" width="100" height="150" as="geometry" />
+          <mxGeometry x="-16948" y="296.5" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-112" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=50;" parent="1" source="sUApwfBICfltFjr-QBAB-106" target="sUApwfBICfltFjr-QBAB-110" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-17165" y="628.5" as="sourcePoint" />
-            <mxPoint x="-17125" y="198.5" as="targetPoint" />
+            <mxPoint x="-16948" y="616" as="sourcePoint" />
+            <mxPoint x="-16908" y="186" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-17115" y="158.5" />
+              <mxPoint x="-16898" y="146" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-113" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=50;" parent="1" source="sUApwfBICfltFjr-QBAB-110" target="sUApwfBICfltFjr-QBAB-114" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-17125" y="588.5" as="sourcePoint" />
-            <mxPoint x="-17155" y="680.5" as="targetPoint" />
+            <mxPoint x="-16908" y="576" as="sourcePoint" />
+            <mxPoint x="-16938" y="668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-114" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-17197" y="722.5" width="164" height="94" as="geometry" />
+          <mxGeometry x="-16980" y="710" width="164" height="94" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-115" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$Stop$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-17187.5" y="739.5" width="145" height="60" as="geometry" />
+          <mxGeometry x="-16970.5" y="727" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-116" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$Yes$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-17260" y="494.5" width="145" height="60" as="geometry" />
+          <mxGeometry x="-17043" y="482" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-117" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;$$No$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-17597" y="331.75" width="145" height="60" as="geometry" />
@@ -3791,14 +3791,14 @@
             <mxPoint x="-20623" y="-766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sUApwfBICfltFjr-QBAB-171" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;利用自动求导技术对输入坐标进行求导&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-20601" y="-936" width="455" height="68" as="geometry" />
+        <mxCell id="sUApwfBICfltFjr-QBAB-171" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;Using Automatic Differentiaton&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-20924" y="-904" width="1025" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="sUApwfBICfltFjr-QBAB-172" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;计算得到神经网络预测物理量不符合物理方程的量化指标&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-17747" y="-386.5" width="953" height="68" as="geometry" />
+        <mxCell id="sUApwfBICfltFjr-QBAB-172" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;Computing Loss&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-17730" y="-328.5" width="953" height="68" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-173" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;判断量化指标是否符合要求&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-16917" y="357.5" width="473" height="68" as="geometry" />
+          <mxGeometry x="-16700" y="345" width="473" height="68" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-174" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;Neural Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-21591.5" y="751.75" width="605" height="68" as="geometry" />
