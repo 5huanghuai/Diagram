@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T11:32:31.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rX54vTJFSoJUyPxE4lSF" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T11:33:47.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oR9qTckBRhqYY-bzH83A" version="21.7.2" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
     <mxGraphModel dx="27684" dy="6552" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -3770,8 +3770,8 @@
         <mxCell id="sUApwfBICfltFjr-QBAB-165" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;Predicted&amp;nbsp; Pressure&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-20467" y="83" width="748" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="sUApwfBICfltFjr-QBAB-166" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;将神经网络预测的物理量带入到物理方程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-19978" y="-325.5" width="680" height="68" as="geometry" />
+        <mxCell id="sUApwfBICfltFjr-QBAB-166" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;Using Predicted Pressure Computed Loss Function&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-19995" y="-382.5" width="680" height="68" as="geometry" />
         </mxCell>
         <mxCell id="sUApwfBICfltFjr-QBAB-167" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;&lt;b&gt;Output Prediction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-20805" y="-467" width="615" height="68" as="geometry" />
