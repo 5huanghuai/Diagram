@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T13:33:21.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="C61CRHOGkREfdB39A6lX" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T13:35:22.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XkMSVxr8bK3niOhp1gGK" version="22.0.6" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="44120" dy="22603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="45493" dy="23337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7d9847;strokeColor=#36393d;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-13279.999999999998" y="-19280" width="1453" height="1047" as="geometry" />
+          <mxGeometry x="-13320.699999999999" y="-19280" width="1453" height="1047" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-184" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 94px;&quot;&gt;$$u_{0} = A*exp( i \phi)$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-12730.499999999998" y="-19254.5" width="851" height="281" as="geometry" />
+          <mxGeometry x="-12771.199999999999" y="-19254.5" width="851" height="281" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-185" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;$$\phi$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-13110.499999999998" y="-19203.5" width="272" height="189" as="geometry" />
+          <mxGeometry x="-13151.199999999999" y="-19203.5" width="272" height="189" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-186" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-12759.63" y="-19107.5" as="sourcePoint" />
-            <mxPoint x="-12901.63" y="-19107.5" as="targetPoint" />
+            <mxPoint x="-12800.33" y="-19107.5" as="sourcePoint" />
+            <mxPoint x="-12942.33" y="-19107.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-187" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-12978.999999999998" y="-19022.75" as="sourcePoint" />
-            <mxPoint x="-12978.999999999998" y="-18724.75" as="targetPoint" />
+            <mxPoint x="-13019.699999999999" y="-19022.75" as="sourcePoint" />
+            <mxPoint x="-13019.699999999999" y="-18724.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-206" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;$$\times$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-13110.5" y="-18670" width="260" height="260" as="geometry" />
+          <mxGeometry x="-13139.2" y="-18652.56" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-120" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="-24408.87" y="-17040" width="5857.5" height="1510" as="geometry" />
@@ -6762,16 +6762,16 @@
           <mxGeometry x="-10537.68" y="-20070" width="610" height="329.88" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-128" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9c403d;strokeColor=#b85450;strokeWidth=4;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-14151.970000000005" y="-18721.629999999997" width="737.25" height="365.12" as="geometry" />
+          <mxGeometry x="-14180.670000000006" y="-18704.19" width="737.25" height="365.12" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-129" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$A(x,y)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14070.390000000003" y="-18699.07" width="546" height="320" as="geometry" />
+          <mxGeometry x="-14099.090000000004" y="-18681.63" width="546" height="320" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-130" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#675083;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-10746.130000000005" y="-18867.26" width="3084" height="736.76" as="geometry" />
+          <mxGeometry x="-10774.000000000005" y="-18918.449999999997" width="3084" height="736.76" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-131" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;Physics-Informed&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-9676.130000000005" y="-18798.499999999996" width="870" height="150" as="geometry" />
+          <mxGeometry x="-9704.000000000005" y="-18849.689999999995" width="870" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-132" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0C84C6;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-15496.000000000004" y="-19200" width="1181" height="1425.75" as="geometry" />
@@ -6786,15 +6786,15 @@
           <mxGeometry x="-14744.000000000004" y="-18524.25" width="62" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-136" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-10587.260000000006" y="-18579.999999999996" width="2705" height="238" as="geometry" />
+          <mxGeometry x="-10615.130000000006" y="-18631.189999999995" width="2705" height="238" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-137" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;$$PDE:\nabla^{2} u_{s} + k^{2} u_{s}&amp;nbsp; &amp;nbsp;+&amp;nbsp; (k^{2}- k_{0}^{2} ) u_{0} =0,\quad (x,y) \in&amp;nbsp; \Omega$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-9672.260000000006" y="-18525.749999999996" width="870" height="150" as="geometry" />
+          <mxGeometry x="-9700.130000000006" y="-18576.939999999995" width="870" height="150" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-138" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-13544.84" y="-18539.66" as="sourcePoint" />
-            <mxPoint x="-13144.84" y="-18539.66" as="targetPoint" />
+            <mxPoint x="-13573.54" y="-18522.22" as="sourcePoint" />
+            <mxPoint x="-13173.54" y="-18522.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-139" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;$$Loss_{PI}$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -6915,7 +6915,7 @@
           <mxGeometry x="-15283.000000000004" y="-19130" width="779" height="68" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-166" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Alternative Field&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-14185.000000000002" y="-18212.75" width="939.01" height="278.87" as="geometry" />
+          <mxGeometry x="-14213.700000000003" y="-18195.31" width="939.01" height="278.87" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-167" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Computed Loss&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10697.68" y="-20200" width="953" height="68" as="geometry" />
@@ -6975,24 +6975,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-193" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bf7334;strokeColor=#b85450;strokeWidth=4;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-11687.930000000004" y="-18698.379999999997" width="737.25" height="365.12" as="geometry" />
+          <mxGeometry x="-11728.630000000005" y="-18698.379999999997" width="737.25" height="365.12" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-194" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$u_{s}(x,y)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11606.350000000002" y="-18675.82" width="546" height="320" as="geometry" />
+          <mxGeometry x="-11647.050000000003" y="-18675.82" width="546" height="320" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-195" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Scattered Field&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11802.86" y="-18961.75" width="939.01" height="278.87" as="geometry" />
+          <mxGeometry x="-11843.560000000001" y="-18961.75" width="939.01" height="278.87" as="geometry" />
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-196" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-12763.5" y="-18542.12" as="sourcePoint" />
-            <mxPoint x="-11721.36" y="-18537.87" as="targetPoint" />
+            <mxPoint x="-12720" y="-18517.949999999997" as="sourcePoint" />
+            <mxPoint x="-11677.86" y="-18513.699999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKaPAhoB8xlWZkSnY3HW-197" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-11042.84" y="-18510" as="sourcePoint" />
-            <mxPoint x="-10642.84" y="-18510" as="targetPoint" />
+            <mxPoint x="-11083.54" y="-18510" as="sourcePoint" />
+            <mxPoint x="-10683.54" y="-18510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
