@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T01:18:56.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AyLyFnd4nWw8aM-HARm7" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T01:19:37.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1tmssrVlwaDArHaUfTX_" version="22.0.6" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="45493" dy="23337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="48240" dy="24805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7496,8 +7496,8 @@
         <mxCell id="jQYQQo-HGyiMfyt0URyQ-63" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Multiply layer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5990" y="-14915.75" width="790" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="jQYQQo-HGyiMfyt0URyQ-64" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 94px;&quot;&gt;$$u_{0} = A*e^{( \hat{i} \phi)}$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-5980.999999999999" y="-15920.000000000002" width="851" height="281" as="geometry" />
+        <mxCell id="jQYQQo-HGyiMfyt0URyQ-64" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 94px;&quot;&gt;$$u_{0} = \frac{\hat{i}}{4} H_{0}^{1}(kr) $$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5905.499999999999" y="-15910.000000000002" width="851" height="281" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
