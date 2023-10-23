@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T07:51:34.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0P_rEWRIqdCGU_tJLawO" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:52:45.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZHiPLUZDvLxytornqHw0" version="22.0.6" type="github">
   <diagram name="第 1 页" id="XEicXpZz3VGOv-WwQaZo">
-    <mxGraphModel dx="20422" dy="22390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="19833" dy="22076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,6 +159,15 @@
         </mxCell>
         <mxCell id="-kjIEGpwDhmasj7m8jJA-53" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$\sigma$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-12669.250000000004" y="-18094.5" width="95" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-kjIEGpwDhmasj7m8jJA-54" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;$$l-1$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-14890" y="-17820" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-kjIEGpwDhmasj7m8jJA-55" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;$$l$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-13875.75" y="-17780" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-kjIEGpwDhmasj7m8jJA-56" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;$$l+1$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-12750" y="-17770" width="380" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
