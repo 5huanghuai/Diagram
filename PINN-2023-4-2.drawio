@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T07:51:53.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8SFTGaxWMXncy_gMIuQ0" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T08:02:50.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ow9FsPeR2OHZh_0Z7TLV" version="22.0.7" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="48140" dy="24867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="44070" dy="22633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8322,12 +8322,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4gJvIR1OhWen9vx1BHL--26" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Width&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-39626.12" y="-10861.869999999999" width="779" height="377.75" as="geometry" />
+          <mxGeometry x="-39626.12" y="-10903.88" width="779" height="377.75" as="geometry" />
         </mxCell>
         <mxCell id="4gJvIR1OhWen9vx1BHL--27" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Depth&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-39056.12" y="-10580.369999999999" width="390" height="377.75" as="geometry" />
         </mxCell>
-        <mxCell id="4gJvIR1OhWen9vx1BHL--28" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;8 layer and 64&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 100px;&quot;&gt;neuron&lt;/b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;&lt;br&gt;(Baseline)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4gJvIR1OhWen9vx1BHL--28" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;4 layer and 64&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 100px;&quot;&gt;neuron&lt;/b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;&lt;br&gt;(Baseline)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-39660" y="-8130" width="1048" height="377.75" as="geometry" />
         </mxCell>
         <mxCell id="4gJvIR1OhWen9vx1BHL--29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c84c6;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -8396,7 +8396,7 @@
         <mxCell id="4gJvIR1OhWen9vx1BHL--50" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$\sigma$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-35744.5" y="-9617.23" width="95" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4gJvIR1OhWen9vx1BHL--51" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;8 layer and 256 neuron&lt;br&gt;(Increase Width of NN)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4gJvIR1OhWen9vx1BHL--51" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;4 layer and 128 neuron&lt;br&gt;(Increase Width of NN)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-36570" y="-8100" width="1253" height="377.75" as="geometry" />
         </mxCell>
         <mxCell id="4gJvIR1OhWen9vx1BHL--52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c84c6;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -8465,7 +8465,7 @@
         <mxCell id="4gJvIR1OhWen9vx1BHL--73" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$\sigma$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-37874.62" y="-8809" width="95" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="4gJvIR1OhWen9vx1BHL--74" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;16 layer and 64&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 100px;&quot;&gt;neuron&lt;/b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;&lt;br&gt;(Increase Depth of NN)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4gJvIR1OhWen9vx1BHL--74" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;8 layer and 64&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 100px;&quot;&gt;neuron&lt;/b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;&lt;br&gt;(Increase Depth of NN)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-38182.62" y="-8150.25" width="1127.62" height="377.75" as="geometry" />
         </mxCell>
         <mxCell id="4gJvIR1OhWen9vx1BHL--75" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;$$\vdots$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
