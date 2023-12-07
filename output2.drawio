@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T04:58:44.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qGUU6VUS-vbklgeMjcXU" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T04:59:48.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6RcSw2kv4nxRC5qKvq_y" version="22.1.7" type="github">
   <diagram name="第 1 页" id="ytVl9bIwSj31jDskWyxF">
-    <mxGraphModel dx="1340" dy="278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1314" dy="263" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,28 @@
         </mxCell>
         <mxCell id="hVE_uhket6KHbPChakAS-295" value="$${\sigma_{xz}&lt;br&gt;}_{(i, j)}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="hVE_uhket6KHbPChakAS-282">
           <mxGeometry x="16.999999999999996" y="38.64999999999998" width="43" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hVE_uhket6KHbPChakAS-296" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="hVE_uhket6KHbPChakAS-282">
+          <mxGeometry x="-0.6667" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63" y="68.14999999999998" as="sourcePoint" />
+            <mxPoint x="63" y="108.14999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVE_uhket6KHbPChakAS-297" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="hVE_uhket6KHbPChakAS-282">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63" y="68.14999999999998" as="sourcePoint" />
+            <mxPoint x="103" y="68.14999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVE_uhket6KHbPChakAS-298" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="hVE_uhket6KHbPChakAS-282">
+          <mxGeometry x="58" y="62.14999999999998" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hVE_uhket6KHbPChakAS-299" value="$$x$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hVE_uhket6KHbPChakAS-282">
+          <mxGeometry x="54" y="38.64999999999998" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hVE_uhket6KHbPChakAS-300" value="$$y$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hVE_uhket6KHbPChakAS-282">
+          <mxGeometry x="17" y="74.14999999999998" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
