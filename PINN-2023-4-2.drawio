@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:20:56.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="fwWIbuT4yPW6Ea8W5BU6" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T06:22:36.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hk8rNa9xCHuZPx-Gibtt" version="22.1.11" type="github">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="47820" dy="27860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="45865" dy="26795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8879,9 +8879,6 @@
         <mxCell id="msDWJYROV-W5nzrjQYYP-33" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Alternative Field&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5433.670000000004" y="-12581.82" width="939.01" height="278.87" as="geometry" />
         </mxCell>
-        <mxCell id="msDWJYROV-W5nzrjQYYP-34" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Computed Loss&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1870.17" y="-14043.369999999999" width="953" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-36" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$\sigma$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6642.000000000004" y="-12352.939999999999" width="95" height="150" as="geometry" />
         </mxCell>
@@ -8908,7 +8905,7 @@
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-49" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3033.67" y="-13313.369999999999" as="sourcePoint" />
+            <mxPoint x="-3982" y="-13313" as="sourcePoint" />
             <mxPoint x="-6149" y="-12680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-6149" y="-13313" />
@@ -8961,18 +8958,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2455a4;strokeColor=#b85450;strokeWidth=4;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-2863.2500000000045" y="-13289.630000000001" width="737.25" height="365.12" as="geometry" />
+          <mxGeometry x="-2863.2500000000045" y="-13538.630000000001" width="737.25" height="365.12" as="geometry" />
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-88" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$u_{O}(x,z)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2781.67" y="-13267.070000000003" width="507.51" height="320" as="geometry" />
+          <mxGeometry x="-2781.67" y="-13516.070000000003" width="507.51" height="320" as="geometry" />
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-89" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Obervation data&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2978.180000000001" y="-13552.999999999996" width="939.01" height="278.87" as="geometry" />
+          <mxGeometry x="-2978.180000000001" y="-13801.999999999996" width="939.01" height="278.87" as="geometry" />
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-91" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;targetPerimeterSpacing=-1;endSize=50;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2501.420000000002" y="-12563.369999999999" as="sourcePoint" />
-            <mxPoint x="-2502.09" y="-12983.79" as="targetPoint" />
+            <mxPoint x="-2515" y="-13124" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-92" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;endSize=50;" edge="1" parent="1">
@@ -9121,6 +9118,18 @@
         </mxCell>
         <mxCell id="msDWJYROV-W5nzrjQYYP-153" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;NN2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6674.000000000004" y="-11087.869999999999" width="605" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="msDWJYROV-W5nzrjQYYP-156" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3b8ba4;strokeColor=#2D7600;strokeWidth=4;fillStyle=solid;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-3919" y="-13491.999999999998" width="610" height="329.88" as="geometry" />
+        </mxCell>
+        <mxCell id="msDWJYROV-W5nzrjQYYP-157" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;$$Loss_{data}$$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3899" y="-13451.62" width="548" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="msDWJYROV-W5nzrjQYYP-159" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;targetPerimeterSpacing=-1;endSize=50;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2898" y="-13324" as="sourcePoint" />
+            <mxPoint x="-3348" y="-13324" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
