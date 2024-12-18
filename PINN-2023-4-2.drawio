@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="4N0vP-BrQl26dEoN5jJD">
-    <mxGraphModel dx="59520" dy="40240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="49195" dy="34100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10350,13 +10350,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WxDudIp35AlgjlVwYLxX-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2455a4;strokeColor=#b85450;strokeWidth=4;gradientColor=none;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-11301.810000000005" y="-25835.760000000002" width="737.25" height="365.12" as="geometry" />
+          <mxGeometry x="-11254.81" y="-25835.76" width="631.81" height="365.12" as="geometry" />
         </mxCell>
-        <mxCell id="WxDudIp35AlgjlVwYLxX-116" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$u_{O}(x,z)$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11220.23" y="-25813.200000000004" width="507.51" height="320" as="geometry" />
+        <mxCell id="WxDudIp35AlgjlVwYLxX-116" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;$$u_{s}^{obs}$$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11173.23" y="-25813.200000000004" width="507.51" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WxDudIp35AlgjlVwYLxX-117" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 100px;&quot;&gt;Obervation data&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11419.000000000002" y="-26069.999999999996" width="939.01" height="278.87" as="geometry" />
+          <mxGeometry x="-11372.000000000002" y="-26069.999999999996" width="939.01" height="278.87" as="geometry" />
         </mxCell>
         <mxCell id="WxDudIp35AlgjlVwYLxX-119" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;endSize=50;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
